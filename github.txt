@@ -1,0 +1,6 @@
+#incremental#
+
+#input stdlib.io
+{
+int a,i;
+
